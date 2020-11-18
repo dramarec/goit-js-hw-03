@@ -1,3 +1,6 @@
+.vscode
+.prettierrc.json
+.DS_Store
 # Logs
 logs
 *.log
